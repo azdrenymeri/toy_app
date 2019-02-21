@@ -23,10 +23,6 @@ development:
 test:
   adapter: postgresql
   database: toy_app
-  pool: 5
-  username: ruby_client
-  password: ruby
-
 production:
   <<: *default
   database: toy_app
