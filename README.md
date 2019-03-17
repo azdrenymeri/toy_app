@@ -1,24 +1,7 @@
-# README
+## Following the Rails Tutorial, by Michael Hartl, as part of the Odin Project's Ruby on Rails unit.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Toy App
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Contributors:
+* [@azdrenymeri](https://github.com/azdrenymeri) 
+* [@milosvukadinovic](https://github.com/milosvukadinovic)
